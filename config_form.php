@@ -1,7 +1,3 @@
-<style>
-	.helper{font-size:.85em;}
-</style>
-
 <h2><?php echo __('Account Settings'); ?></h2>
 
 <fieldset id="account">
